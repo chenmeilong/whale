@@ -2,7 +2,7 @@
 <h1>whale</h1>
 <a href="./README_en.md">English</a>|<a href="./README.md">简体中文</a>
 </div>
-<strong>whale是kaggle比赛[鲸鱼图像](https://www.kaggle.com/c/humpback-whale-identification/)识别的简化版，本文是对Top3大神pudae算法复现的</strong>
+<strong>whale is a simplified version of the kaggle competition [whale image](https://www.kaggle.com/c/humpback-whale-identification) recognition, this paper is a reproduction of the Top3 god pudae algorithm</strong>
 <hr>
 
 ## Description
